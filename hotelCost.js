@@ -1,4 +1,3 @@
-//hotelCost code:
 function hotelCost(day){
     var first10DayCost = 100;
     var second10DayCost = 80;
@@ -25,5 +24,5 @@ else{
     }
     return Cost;
 }
-var total = hotelCost(-21);
+var total = hotelCost(21);
 console.log(total);

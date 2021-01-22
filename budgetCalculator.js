@@ -1,4 +1,3 @@
-//budgetCalculator code:
 function budgetCalculator(watch, mobile, laptop){
     var watchPrice = 50;
     var mobilePrice = 100; 
